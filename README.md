@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 # My Favorite Kdrama Series/Movie
 - Goblin
 - Dr. Romantic
